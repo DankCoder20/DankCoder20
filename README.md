@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm [Shankar Narayanan]
+### 👋 Hey there! I'm Shankar Narayanan
 
 💻 **Developer | Open Source Enthusiast | Tech Explorer**  
 <sub>
