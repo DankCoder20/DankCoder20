@@ -3,7 +3,10 @@
 💻 **Developer | Open Source Enthusiast | Tech Explorer**  
 
 I love working on innovative projects, contributing to open-source, and building cool stuff with cutting-edge technology.
-
+🏛️ Sophomore at IIT Roorkee.
+🔭 I’m currently working on Software development.
+👯 I’m looking to collaborate on Dev projects.
+🌱 I’m currently doing dsa and  competitive programming 
 ---
 
 ### 🛠 Tech Stack:
