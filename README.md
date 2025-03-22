@@ -1,12 +1,13 @@
 ### 👋 Hey there! I'm [Shankar Narayanan]
 
 💻 **Developer | Open Source Enthusiast | Tech Explorer**  
-
+<sub>
 I love working on innovative projects, contributing to open-source, and building cool stuff with cutting-edge technology.<br>
 🏛️ Sophomore at IIT Roorkee.<br>
 🔭 I’m currently working on Software development.<br>
 👯 I’m looking to collaborate on Dev projects.<br>
 🌱 I’m currently doing dsa and  competitive programming.<br>
+</sub>
 ---
 
 ### 🛠 Tech Stack:
