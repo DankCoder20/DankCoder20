@@ -17,8 +17,8 @@ I love working on innovative projects, contributing to open-source, and building
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHANKAR2012&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SHANKAR2012&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
